@@ -1,6 +1,6 @@
 {
   "name": "@pehaa/gatsby-theme-wp-child",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "main": "index.js",
   "description": "Gatsby child theme for WordPress",
   "peerDependencies": {
@@ -13,7 +13,7 @@
     "@chakra-ui/react": "^1.6.7",
     "@emotion/react": "^11.4.0",
     "@emotion/styled": "^11.3.0",
-    "@pehaa/gatsby-theme-wp-parent": "^1.4.1",
+    "@pehaa/gatsby-theme-wp-parent": "^1.4.2",
     "@wordpress/block-library": "^6.0.0",
     "framer-motion": "^4.1.17",
     "gatsby-plugin-webfonts": "^2.1.0",
