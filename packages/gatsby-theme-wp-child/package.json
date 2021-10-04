@@ -1,0 +1,23 @@
+{
+  "name": "@pehaa/gatsby-theme-wp-child",
+  "version": "1.5.1",
+  "main": "index.js",
+  "description": "Gatsby child theme for WordPress",
+  "peerDependencies": {
+    "gatsby": "^3.10.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "dependencies": {
+    "@chakra-ui/gatsby-plugin": "^2.0.1",
+    "@chakra-ui/react": "^1.6.7",
+    "@emotion/react": "^11.4.0",
+    "@emotion/styled": "^11.3.0",
+    "@pehaa/gatsby-theme-wp-parent": "^1.4.1",
+    "@wordpress/block-library": "^6.0.0",
+    "framer-motion": "^4.1.17",
+    "gatsby-plugin-webfonts": "^2.1.0",
+    "html-react-parser": "^1.2.8"
+  },
+  "gitHead": "e2e89e1c13a36b23df9488ebc522d2fe9ced3597"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@pehaa/gatsby-theme-wp-parent",
+  "version": "1.4.1",
+  "license": "MIT",
+  "main": "index.js",
+  "peerDependencies": {
+    "gatsby": "^3.9.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "dependencies": {
+    "gatsby-awesome-pagination": "^0.3.8",
+    "gatsby-plugin-image": "^1.13.0",
+    "gatsby-plugin-sharp": "^3.13.0",
+    "gatsby-source-wordpress": "^5.13.0",
+    "gatsby-transformer-sharp": "^3.13.0"
+  },
+  "gitHead": "e2e89e1c13a36b23df9488ebc522d2fe9ced3597"
+}
