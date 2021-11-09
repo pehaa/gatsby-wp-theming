@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@pehaa/gatsby-theme-wp-child": "^1.5.2",
-    "gatsby": "^3.14.0",
+    "gatsby": "^4.1.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   }
