@@ -1,6 +1,6 @@
 {
   "name": "@pehaa/gatsby-theme-wp-child",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "main": "index.js",
   "description": "Gatsby child theme for WordPress",
   "peerDependencies": {
