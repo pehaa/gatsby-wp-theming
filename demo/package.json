@@ -6,7 +6,8 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "dev": "gatsby clean && gatsby develop"
   },
   "dependencies": {
     "@pehaa/gatsby-theme-wp-child": "^1.6.0",
