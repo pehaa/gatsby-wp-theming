@@ -66,6 +66,13 @@ const theme = {
         textDecoration: 'underline',
         color: 'brand.500',
       },
+      '.entry-content a': {
+        textDecoration: 'underline',
+        color: 'brand.500',
+      },
+      '.entry-content a:hover': {
+        textDecoration: 'none',
+      },
       p: {
         mb: 4,
       },
