@@ -4,6 +4,9 @@ export const contentStyles = {
     'figure > a': {
       maxW: '100%',
     },
+    '.gatsby-image-wrapper': {
+      h: '100%',
+    },
   },
   '.entry-content .wp-audio-shortcode, .entry-content > *:not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.wp-block-separator), *[class*=inner-container] > *:not(.entry-content):not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.wp-block-separator)':
     {

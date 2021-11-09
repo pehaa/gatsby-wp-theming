@@ -60,6 +60,7 @@ typings/
 
 # gatsby files
 .cache/
+.wordpress-cache/
 public
 
 # Mac files
@@ -84,3 +85,4 @@ __MACOSX
 #vscode
 *.code-workspace
 .vscode/
+
