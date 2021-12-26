@@ -10,10 +10,10 @@
   },
   "dependencies": {
     "gatsby-awesome-pagination": "^0.3.8",
-    "gatsby-plugin-image": "^2.1.0",
-    "gatsby-plugin-sharp": "^4.1.0",
-    "gatsby-source-wordpress": "^6.1.0",
-    "gatsby-transformer-sharp": "^4.1.0"
+    "gatsby-plugin-image": "^2.4.0",
+    "gatsby-plugin-sharp": "^4.4.0",
+    "gatsby-source-wordpress": "^6.4.0",
+    "gatsby-transformer-sharp": "^4.4.0"
   },
   "gitHead": "e2e89e1c13a36b23df9488ebc522d2fe9ced3597"
 }
